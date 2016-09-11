@@ -1,0 +1,3 @@
+rootProject.name = 'gitinder'
+
+include ':app'
